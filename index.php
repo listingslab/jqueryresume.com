@@ -5,7 +5,7 @@
 	global $o;
 	include '_php/functions.php';
 	include 'config.php';
-	$o ['version'] = '7.5';
+	$o ['version'] = '7.6.0';
 ?>
 <!doctype html>
 <html>
