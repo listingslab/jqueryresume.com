@@ -1,0 +1,23 @@
+﻿This document is on Google Drive http://tinyurl.com/chris-dorward 
+and as a Web App here jQuery Resume
+Front End Development Javascript 
+Curriculum Vitae - Chris Dorward, Front End Developer
+ Open Source 
+
+* HTML5 / CSS3 / XML to W3C standards
+* Responsive Design
+* Taxonomy
+* Application Development
+* GUI/UI Design, User Interface
+* Browser compatibility
+* Web Interface
+* PHP MySQL & LAMP
+* Mobile Apps, Apps Design
+* E-commerce
+* Web Graphics Design
+
+
+Designing for tablets and smartphones
+We started designing user interfaces when the web looked very different. We've seen and been a part of every iteration and every new technology. We never designed for print, only for screens. These days that means tablets and smartphones.
+What is User Interface Design ?
+What is Front End Development ?

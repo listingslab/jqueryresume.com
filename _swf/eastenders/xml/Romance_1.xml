@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<eastenders quizTitle="Romance Quiz 1" quizBG="images/QuizBGs/Romance_1.jpg">
+	<round number="1" name="Round 1 : Current Affairs">
+			<question type="qAudio" path="audio/round1.mp3" q="What did Mo ask to do at Dot's house? (b)" a="Have a bath" b="Watch TV" c="Use her oven" correct="b" />
+			<question type="question" number="2" q="What did Douglas's T-shirt read? " a="Make Poverty History (a)" b="Stop The War" c="No ID Cards" correct="a" />
+			<question type="question" number="3" q="How did Bradley help Billy? (b)" a="By lending him money" b="Financial advice" c="DIY " correct="b" />
+	</round>
+	<round number="2" name="Round 2 : Another round">
+			<question type="qAudio" path="audio/round2.mp3" number="1" q="The correct answer is A" a="answer" b="answer" c="answer" correct="a" />
+			<question type="question" number="2" q="The correct answer is B" a="answer" b="answer" c="answer" correct="b" />
+			<question type="question" number="3" q="The correct answer is C" a="answer" b="answer" c="answer" correct="c" />
+	</round>
+	<round number="3" name="Round 3 : Another Round">
+			<question type="qAudio" path="audio/round3.mp3" number="1" q="The correct answer is A" a="answer" b="answer" c="answer" correct="a" />
+			<question type="question" number="2" q="The correct answer is B" a="answer" b="answer" c="answer" correct="b" />
+			<question type="question" number="3" q="The correct answer is C" a="answer" b="answer" c="answer" correct="c" />
+	</round>
+</eastenders>

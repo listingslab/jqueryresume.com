@@ -1,0 +1,29 @@
+﻿This document is on Google Drive http://tinyurl.com/chris-dorward 
+and as a Web App here jQuery Resume
+Front End Development Javascript 
+Curriculum Vitae - Chris Dorward, Front End Developer jquery.png 
+
+
+We create JavaScript User Interfaces Using industry standard JavaScript, Backbone and Angular JS and also creating our own from scratch
+As well as using industry standard JavaScript like Backbone ? and Angular JS ? to connect our own and existing APIs over a RESTful JSON interface, we have created our own platform which though not as clean as the Open Source frameworks can offer features the web hasn't seen since we stopped using Flash. Want to see how it looks? The source to this jQuery Resume App is available on GitHub. 
+Or if you'd like a more entertaining example, try the Swear Machine
+just as we used components with Flash...
+There's no point reinventing the wheel, and just as we used components in Flash to create User Interfaces, we can now use jQuery UI? to do the same in jQuery ? Web Apps. Open Source 
+Why take the time to become expert in jQuery?
+Since Apple killed Flash by not allowing it on iOS, we use jQuery as the basic platform on which to build Web Apps. Just like with the flash player, once it works, it always works. And jQuery works everywhere from tablet Operating Systems to Internet Explorer. It's Open Source and is constantly being made better. Because it is written in JavaScript, we can leverage our previous ActionScript development experience at the same time of developing RESTful PHP 5 APIs.
+
+
+Relevant Skills
+* JavaScript
+* Responsive & Mobile
+* jQuery
+* jQuery UI
+* Angular JS ?
+* Backbone ?
+* Bower ?
+* CSS3
+* HTML 5
+* Information Architecture
+* PHP & API Development
+* JSON / XML
+* W3C standards compliant

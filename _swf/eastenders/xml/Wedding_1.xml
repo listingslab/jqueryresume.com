@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<eastenders quizTitle="Wedding Quiz 1" quizBG="images/QuizBGs/Wedding_1.jpg">
+	<round number="1">
+			<question type="question" q="Who are the happy couple?" a="Sharon and Phil" b="Sharon and Des" c="Sharon and Dennis" correct="c" />
+			<question type="video" path="video/ep778EASTENDERS.flv" q="When did this happen?" a="Before Ian bought the chippy" b="The first ever episode" c="After Phil was shot" correct="b" />
+			<question type="video" path="video/ep1118EASTENDERS.flv" q="Who was she sleeping with?" a="grant mitchell" b="phil mitchell" c="grand and phil mitchell" correct="b" />
+			<question type="video" path="video/ep1204EASTENDERS.flv" q="Who attacked first?" a="Pat attacked first" b="The other one attacked first" c="both at the same time" correct="a" />
+			<question type="video" path="video/ep1206EASTENDERS.flv" q="Who did the horrible lady sleep with?" a="Kevin" b="Pat Butcher" c="Eric" correct="a" />
+			<question type="video" path="video/ep853EASTENDERS.flv" q="Who's body did they find?" a="Andy's" b="Loftie's" c="Sharon's Dad's" correct="a" />
+	</round>
+	<round number="2">
+			<question type="question" q="First Question of round 2" a="answer (correct)" b="answer" c="answer" correct="a" />
+			<question type="question" q="Second Question of round 2" a="answer" b="answer (correct)" c="answer" correct="b" />
+	</round>
+</eastenders>

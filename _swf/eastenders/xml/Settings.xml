@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<eastenders_quiz>
+	<lastUpdate date="5/5/2007" updatedBy="Chris" />
+	<defaultCharacterNames>
+		<characterName userName = "Stacy" />
+		<characterName userName = "Deano" />
+		<characterName userName = "Bradley" />
+		<characterName userName = "Dot" />
+		<characterName userName = "Pat" />
+		<characterName userName = "Phil" />
+		<characterName userName = "Ian" />
+		<characterName userName = "Dawn" />
+	</defaultCharacterNames>
+	<themes>
+		<theme active="true" title="Wedding Quiz" buttonText="WEDDING" backgroundIm="images/Themes/WeddingTheme.jpg" buttonImage="images/Themes/theme_icons/theme_weddings.jpg">
+			<quixXMLfile path="xml/Wedding_1.xml" active="true"/>
+		</theme>
+		<theme active="true" title="Romance Quiz" buttonText="ROMANCE" backgroundIm="images/Themes/RomanceTheme.jpg" buttonImage="images/Themes/theme_icons/theme_romance.jpg" >
+			<quixXMLfile path="xml/Wedding_1.xml" active="true" />
+		</theme>
+		<theme active="true" title="Fight Quiz" buttonText="FIGHTS" backgroundIm="images/Themes/FightsTheme.jpg" buttonImage="images/Themes/theme_icons/theme_fights.jpg" >
+			<quixXMLfile path="xml/Wedding_1.xml" active="true" />
+		</theme>
+		<theme active="true" title="General Quiz" buttonText="GENERAL" backgroundIm="images/Themes/GeneralTheme.jpg" buttonImage="images/Themes/theme_icons/theme_general.jpg" >
+			<quixXMLfile path="xml/Wedding_1.xml" active="true" />
+		</theme>
+	</themes>
+	<screenInfo>
+		<screen name="chooseTheme">
+			<images bgImage="images/titleScreen.jpg" />
+			<topleftText1 text="THINK YOU KNOW YOUR STUFF ABOUT EASTENDERS?" />
+			<topleftText2 text="THIS TEXT IS EDITABLE IN xml/Settings.xml" />
+			<gettingStarted text="SELECT YOUR QUIZ THEME, CHARACTER AND PLAY MODE. IN MULTIPLAYER MODE YOU MAY JOIN AN EXISTING GAME OR CREATE A PRIVATE ROOM TO COMPETE AGAINST YOUR FRIENDS. TO INVITE YOUR FRIENDS TO A PRIVATE ROOM, SIMPLY ENTER THEIR EMAIL ADDRESSES AND SEND THEM A REQUEST. YOU’LL THEN ENTER THE PRIVATE ROOM WHERE YOU WILL WAIT FOR THEM TO JOIN." />
+			<playingQuiz text="THERE ARE THREE TEN QUESTION ROUNDS IN EACH GAME. FOR EACH QUESTION, YOU'LL WATCH A SHORT VIDEO CLIP BEFORE BEING PRESENTED WITH A NUMBER OF MULTIPLE CHOICE ANSWERS. THE TIMER BEGINS WHEN THE QUESTIONS APPEAR. ANSWER THE QUESTIONS AS QUICKLY AS POSSIBLE FOR MAXIMUM POINTS!" />
+		</screen>
+	</screenInfo>
+</eastenders_quiz>

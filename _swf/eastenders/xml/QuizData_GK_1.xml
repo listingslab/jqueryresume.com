@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<eastenders quizTitle="First test Quiz with real questions">
+	<round number="1" name="Round 1 : Current Affairs">
+			<question number="1" q="What did Mo ask to do at Dot's house? " a="Have a bath" b="Watch TV " c="Use her oven " d="Stash some dodgy goods " correct="d" />
+			<question number="2" q="What did Douglas's T-shirt read? " a="Make Poverty History " b="Stop The War " c="No ID Cards" d="Get knotted" correct="a" />
+			<question number="3" q="How did Bradley help Billy? " a="By lending him money" b="Financial advice " c="DIY " d="Babysitting" correct="d" />
+			<question number="4" q="Who visited Miss Ford's Private Gentlemen's Club? " a="Jim" b="Garry " c="Max " d="Minty " correct="d" />
+			<question number="5" q="How old did Hazel claim she was? " a="42" b="46" c="50" d="52" correct="c" />
+			<question number="6" q="Who did Mo think was haunting her? " a="Garry and Lynne's baby" b="Harry Slater " c="Trevor Morgan" d="The Ghost of Christmas Past " correct="b" />
+			<question number="7" q="Where did Jim and Dot go? " a="Essex" b="Kent" c="Lancashire " d="Surrey " correct="a" />
+			<question number="8" q="Which singer does Hazel admire? " a="Lulu" b="Dolly Parton " c="Shirley Bassey" d="Lily Allen " correct="c" />
+			<question number="9" q="What did Hazel find disgusting about Gerald? " a="Nasal hair " b="Smelly socks " c="Snoring " d="Hairy back" correct="b" />
+			<question number="10" q="Where did Dot find Tomas? " a="In a car park " b="In a pub " c="In a playground " d="In a church " correct="a" />
+	</round>
+	<round number="2">
+			<question number="1" q="On the 1st of March 2001, Phil Mitchell was shot outside his own front door. Who pulled the trigger? " a="Lisa Fowler " b="Steve Owen " c="Grant Mitchell " d="Dan Sullivan " correct="a" />
+			<question number="2" q="Who owns the fish and chip shop Beale's Plaice? " a="Sharon Watts " b="Peter Beale " c="Phil Mitchell " d="Ian Beale " correct="d" />
+			<question number="3" q="In 2001, Kat Slater revealed to Zoe Slater that they were not in fact sisters, but that they were related in which other way? " a="Cousins " b="Mother and daughter " c="Aunt and niece " d="" correct="Father and son " />
+			<question number="4" q="With what household appliance did Little Mo hit Trevor over the head on New Year's Eve 2001? " a="A kettle " b="An iron " c="A frying pan " d="A vacuum cleaner" correct="b" />
+			<question number="5" q="Before leaving Walford in 2000, which family ran Giuseppe's restaurant? " a="The Taverniers " b="The Jacksons " c="The Carpenters " d="The Di Marcos " correct="d" />
+			<question number="6" q="Who married Kat Slater in the Queen Vic on Christmas Day 2003? " a="Alfie Moon " b="Anthony Trueman" c="Andy Hunter" d="Garry Hobbs " correct="a" />
+			<question number="7" q="What was Kate Mitchell's job before running the nail bar in the Square? " a="Lawyer " b="Plumber " c="Optician " d="Policewoman " correct="d" />
+			<question number="8" q="At which London landmark did Jim Branning propose to Dot Cotton in 2001? " a="Big Ben " b="St Paul's Cathedral " c="London Eye " d="Nelson's Column " correct="b" />
+			<question number="9" q="In 2004, Den Watts bought which famous Albert Square landmark from Sam Mitchell? " a="Arthur's Bench " b="The Queen Vic " c="The Launderette" d="The Arches " correct="b" />
+			<question number="10" q="Which character died after a fall on New Year's Day 2004, on the first day of his honeymoon? " a="Trevor Morgan " b="Barry Evans " c="Mark Fowler " d="Jamie Mitchell " correct="b" />
+	</round>
+	<round number="3">
+			<question number="1" q="Which character married Dennis Rickman in 2005? " a="Pat Evans" b="Sam Mitchell " c="Sharon Watts " d="Vicki Fowler " correct="c" />
+			<question number="2" q="What is the name of the nightclub featured in the soap?" a="Rosie's " b="Enders " c="Angie's" d="Scarlet " correct="d" />
+			<question number="3" q="Pat has been married four times. Who was her fourth husband who died from a heart attack in 2003? " a="Roy Evans" b="Patrick Trueman" c="Pete Beale " d="Terry Raymond " correct="a" />
+			<question number="4" q="In October 2004, which character became the youngest mother in EastEnders' history when she gave birth to a daughter she called Aleesha?" a="Janine Evans " b="Stacey Slater " c="Demi Miller " d="Pauline Fowler " correct="c" />
+			<question number="5" q="What is the name of Max Branning's son? " a="Jim Branning " b="Mickey Miller " c="Bradley Branning " d="Robbie Jackson " correct="c" />
+			<question number="6" q="What is the name of the garage where Garry and Minty work? " a="Mitchell's Autos " b="Minty's Motors " c="Beales on Wheels " d="Mekanix R Us " correct="a" />
+			<question number="7" q="Which family live in number 23 Albert Square? " a="The Slaters " b="The Mitchells " c="The Foxes" d="The Moons " correct="a" />
+			<question number="8" q="What is the name of the supermarket on Bridge Street, run by Patrick and Yolande Trueman? " a="Pat's Place " b="First 'Til Last " c="99p Superstore " d="Minute Mart " correct="d" />
+			<question number="9" q="What number on Albert Square is the doctor's surgery? " a="45" b="1" c="31" d="100" correct="c" />
+			<question number="10" q="On the 11th of May 2006, Denise Fox moved into Walford; name her two daughters? " a="Sguiggle and Chelsea " b="Dawn and Carly " c="Lauren and Abi " d="Triangle and Kensington " correct="c" />
+		</media>
+	</round>
+</eastenders>

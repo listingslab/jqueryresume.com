@@ -1,0 +1,164 @@
+﻿This document is on Google Drive http://tinyurl.com/chris-dorward 
+and as a Web App here jQuery Resume
+Front End Development Javascript 
+Curriculum Vitae - Chris Dorward, Front End Developer
+Profile
+Summary
+Every developer has a speciality. Technically, mine is ECMAScript because it is the basic building block of jQuery and ActionScript. What's more important is 20 years experience of web development. In that time there are few problems I haven't had to solve, and working fast to produce an elegant solution has become second nature.
+These days that means jQuery and over the past 4 years I have become expert in creating User Interfaces using this Open Source platform to replace the need for the Flash player and create complex front ends for Web Apps.
+Career & Experience
+I first saw the internet at university in 1994 and have been a professional Web Developer ever since. Being a Flash developer in 1996 meant developing complex Web Applications well ahead of their time. We still do that.
+Only the technology has changed. Flash's ActionScript is the same language as jQuery; ECMAScript. Our experience goes back to the beginning.
+I learned my trade in the early 2000's online gambling industry, developing flash games for poker and blackjack, then moved on to spread betting applications for the financial sector. I developed experience in delivering robust enterprise level solutions which scale. Experience which has been useful while learning Cloud hosting technologies from companies like Rackspace.
+Personal details
+I currently live in Chamonix, France.Chamonix, France DOB 15/10/1975 (which makes me 39) You can email me on listingslab@gmail.com or call me on +44 203 2868 433
+Key Skills, Experience and Attributes
+Front End Development , Open Source , jQuery , WordPress , Drupal, PHP & MySQL , Mobile & Responsive Design , Flash, ActionScript & Web Graphics ,Search Marketing
+Education
+Newcastle University, UK 
+(1999) Degree in Psychology BSc
+Woodbridge School, Suffolk 
+(1994) A Levels in Maths, Physics & Chemistry
+Languages: English, German, French
+
+
+________________
+
+
+Employment
+CTO, Living Websites Cloud
+Jul 2007 - Present
+* Developed a SCRUM style team methodology using GitHub
+* Developed and managed a team of remote coders
+* Designed and built a WordPress MultiSite Advertising platform
+* Developed original WordPress plugins & themes
+* Created and maintained over 100 websites on LWC within the past 24 months.
+* Skills: UI Design,WordPress, jQuery,XML, UNIX, LAMP, PHP, MySQL, Cloud Hosting,Search Marketing,Responsive Design
+Software Engineer, Listingslab
+Jan 2007 - Present
+* For the past seven years I have been running a small business called Listingslab providing Software Engineering Services to a global market. We've created cutting edge websites and Applications using free Open Source technology for clients all over the world.
+* Managed client feature and support requests for Living Websites Cloud (20+ websites)
+* Took signed-off Photoshop layouts and created advanced Responsive themes.
+* Developed original WordPress Themes HTML5 / CSS3 / XML to W3C standards
+* Skills: HTML 5, CSS 3, javaScript, XML, JSON,WordPress, jQuery, API Development & Integration, UNIX Hosting, Drupal, PHP/MySQL, Source Control, GitHub, Agile & SCRUM, Photoshop, Illustrator, Flash, InDesign
+Senior Developer, Velo//
+Oct 2010 - Dec 2011
+* WordPress MultiSite and custom module and theme development for multiple clients and partner sites
+* Flash & Server Side Scripting
+* Skills: WordPress, Web Graphics, Java / JSP & Server Side Scripting
+Lead Product Developer, FMG
+Nov 2005 - Dec 2006
+* Created an industry leading magazine publishing application called Ceros using Flash.
+* Created complete working prototype from the ground up, seeing it through till launch
+* API Development and Integration
+* Product has been sold commercially since summer 2006
+* Skills: Flash, XML, LAMP, PHP, MySQL, WordPress
+Senior Systems Developer, IG Index
+Oct 2004 - Nov 2005
+* Migrated IG Index front end systems to a 3rd Generation flash platform
+* Part of a large, London based development team
+* Lead Flash developer in the creative department
+* Execution of advertising banners, partner websites and Marketing campaigns.
+* Skills: Flash, XML, .Net, Java, JavaScript, Data Driven Flash, Gaming Industry
+Systems Developer, Cantor Fitzgerald
+Sep 2003 - Aug 2004
+* Joined a small front end development team in a large, global bank
+* Developed financial gambling applications in Flash MX
+* Integrated a sophisticated java-based pricing and fulfilment system with flash web client using open socket XML protocols
+* Handled further development and maintenance of Cantor Fitzgerald UK web properties.
+* Skills: Flash, XML, Java, JavaScript, Data Driven Flash, Gaming Industry
+Senior Flash Developer, Eurobet
+Apr 2003 - Aug 2003
+* Coordinated the final development of a suite of real casino games for delivery via both CD Rom and Internet.
+* Replaced an existing suite licensed from a third party, saving the company £4 million per year
+* Skills: Flash, XML, LAMP, PHP, MySQL, WordPress, Gaming Industry
+Flash Developer, Pearson Broadband
+Sept 2002 - Feb 2003
+* Developed Flash Games for Pearson Broadband developed KnowledgeBox, A digital learning system for UK schools
+* example Maths Application, Fractions of Shape
+* Skills: Flash, XML, Games, WinCVS, Bug Tracking
+Senior Web Developer, Kyunet, Sydney
+Oct 2001 - Aug 2002
+* Developed all ActionScript and integration of Flash into Study-now.com, an e-learning website to teach business English to Japanese speakers.
+* Produced the DHTML in the individual lesson pages using Dreamweaver and Macromedia CourseBuilder.
+* Development of a streaming technology to deliver Flash MX video, a similar audio (MP3) delivery system
+* Skills: Web Graphics, Flash MX, Macromedia, ActionScript, DHTML, CSS 1
+Senior Flash Developer, KPE London
+Feb 2000 - Jul 2001
+* Lead Flash Developer in the creative department, bridging the creative and technical teams of a large London Agency.
+* Developed the ActionScript behind several online flash games and viral marketing campaigns.
+* Created an early Interwoven CMS using an XML protocol
+* Worked with Entertainment, and became familiar with the processes and software used in the production of film for both television and for the Internet, including shooting, editing and post-production.
+* Clients included Channel 4, Initial Launch website for the E4 digital entertainment channel.
+* Skills: Flash, XML, Advertising Agency, Web Graphics, Video, Animation
+Web Developer, 4MAT
+May 1999 - Jan 2000
+* Gained a grounding in basic middleware development using MicroSoft ASP
+* I developed a method of retrieving live database information and inserting it into a browser based flash movie. This was the first prototype for the 'data-driven flash' products I have developed ever since.
+* Skills: Flash, XML, MicroSoft ASP, Data-driven Flash, Web Development, HTML 1
+Flash Developer, Aspinalls Online Casino
+May 1999 - July 1999
+* Development of a series of viral marketing game promoting the online casino using server technology written in Java, and XML as the communication protocol
+* Flash XML Socket layer connection. Using flash version 5, I was instrumental in the team developing real-time communication using flash XML socket layer. I oversaw the technical team for this production to working prototype stage.
+* Skills: Flash, XML, Data Driven Flash, Gaming Industry
+
+
+
+
+
+
+
+________________
+
+
+Online Portfolio
+Green & White Group Travel Websites
+* Côte d'Azur Green & White
+* Chamonix Green & White
+* Adelaide Green & White
+* Beijing Green & White
+WordPress MultiSite (Living Websites Cloud Microsites)
+* Listingslab Software Engineering
+* Living Websites Cloud
+* Spotify Playlists
+* Social Investment Opportunities
+* The Office Bar, Argentière
+* Papillon, Chamonix
+* Hello Allo
+* DANDEC, Berkhamsted
+* Funky Foods
+* PEP Inc.
+* Le Mariage de Claire et Philippe
+* All Mountain Performance
+Web, jQuery & Mobile Apps
+* Ceros Pricing 
+* jQuery pricing demo
+* jQuery Resume 
+* Download this Open Source Resume and reuse it for free from GitHub
+* Massif Monitor Heartbeat 
+* watch users moving around your website in real time
+* Artificial Intelligence 
+* Open API with multiple uses, including IP/GEO Lookup
+Find us online
+* Search Google for 'listingslab'
+* Google +, YouTube
+* Facebook, Twitter
+* Linkedin
+* Flickr, Instagram
+* Vimeo, Spotify
+* * GitHub, RSS
+Flash Examples 
+Old School Flash
+* Unfinished Eastenders Quiz 
+* It's unfinished, but you can still play it. An example of XML powered Flash.
+* * Penalty Legends (1998) 
+* Make it right.
+Knowledge Box Games, Elearning
+* Fractions of Shape (Young)
+* Number Grid (Young)
+* Fractions of Shape (Old)
+* Number Grid (Old)
+Templates from PhotoShop 
+Creating fully accessible sites hand-coded in standards-compliant HTML5/CSS 3/jQuery from layouts
+* 3Ride Snowboard Rental
+* Midlands Cherry Picker Hire
