@@ -1,8 +1,8 @@
 <?php
 	
 	$o ['app_path'] = listingslab_get_url ();
-	$o ['img_path'] = 'http://listingslab.com/jq_resume/';
-	$o ['live_path'] = 'http://listingslab.com/jq_resume/';
+	$o ['img_path'] = 'http://jqueryresume.com/';
+	$o ['live_path'] = 'http://jqueryresume.com/';
 	$o ['img'] = $o ['app_path'].'_img/_png/listingslab.png';
 	$o ['url'] = listingslab_get_url ();
 	$o ['page_title'] = 'Curriculum Vitae';
