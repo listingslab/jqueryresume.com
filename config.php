@@ -5,8 +5,8 @@
 	$o ['live_path'] = 'http://jqueryresume.com/';
 	$o ['img'] = $o ['app_path'].'_img/_png/listingslab.png';
 	$o ['url'] = listingslab_get_url ();
-	$o ['page_title'] = 'Curriculum Vitae';
-	$o ['title'] = 'Chris Dorward, Curriculum Vitae';
+	$o ['page_title'] = 'jQuery Resume';
+	$o ['title'] = 'Chris Dorward, jQuery Resume';
 	$o ['strap'] = 'Front End Developer since 1995';
 	$o ['desc'] = 'Dealing with most technologies, because most technologies are Open Source. 
 	We want you to buy cool stuff which works, not a bunch of code.';
